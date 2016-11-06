@@ -14,3 +14,6 @@ The patches are coming from here: [Jean-François Moine's blog](http://moinejf.f
 Feedbacks are welcome.
 
 * A working 2016 U-boot (Tested on Orange pi PC and Nano Pi M1). Working great with M1 with very fast SD card read speed. Not so much with OrangePi PC. The new Armbian's U-Boot would be so much better than this. This is going to be replaced by that one
+
+
+* The other problem is kernel logging is scrambled with M1 but not OPI-PC. I have no idea why..

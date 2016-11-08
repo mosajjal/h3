@@ -17,3 +17,4 @@ Feedbacks are welcome.
 
 
 * The other problem is kernel logging is scrambled with M1 but not OPI-PC. I have no idea why..
+  UPDATE: It looks like it has something to do with the fex file. Added those to the repo. Getting to the bottom of it..

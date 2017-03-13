@@ -7,7 +7,7 @@ Allwinner H3 Kernel, U-boot and instructions.
 * A working mainline (4.9rc1) with Systemd support and /lib/modules directory included.
 Almost everything works with this kernel, including Ethernet, HDMI, USB, OTG, etc. Although I got "out of range" error while testing it with OPI-PC and Nano Pi M1. It's supposed to work with OPI-PC+. TV out is not tested either. 
 
-UPDATE : DO NOT USE 4.9RC1. 4.10 is gonna be so much better. I'm adding a patched U-Boot and a simplefb for it as well. stay tuned
+UPDATE : DO NOT USE 4.9RC1. 4.12 is gonna be so much better. Look at [This](https://linux-sunxi.org/Linux_mainlining_effort) page to see how the mainline kernel is developing for Allwinner products.
 
 The patches are coming from here: [Jean-François Moine's blog](http://moinejf.free.fr/opi2/)
 

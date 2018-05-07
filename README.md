@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="200" height="200" src="https://user-images.githubusercontent.com/34600369/39727381-5bcbcaa0-524a-11e8-83f0-8fcbf84fecdd.png">
+</p>
+
 # Allwinner H3 Files
 Allwinner H3 Kernel, U-boot and instructions.
 
